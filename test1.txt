@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 44DC-AB64
+
+ Directory of C:\Users\Sarjono\Desktop\myProject
+
+05/08/2018  04:45 PM    <DIR>          .
+05/08/2018  04:45 PM    <DIR>          ..
+05/08/2018  04:45 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  39,624,273,920 bytes free
